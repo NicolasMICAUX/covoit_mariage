@@ -1,0 +1,8 @@
+json
+pickle
+numpy
+folium
+pandas
+streamlit
+geopy
+streamlit-folium
