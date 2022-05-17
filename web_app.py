@@ -73,6 +73,8 @@ def read_csv(path):
     return pd.read_csv(path)
 
 
+df = df[['Noms', 'Ville', 'Mail']]
+
 # st.sidebar.markdown("### Villes des invités pour covoiturage")
 # st.sidebar.markdown("...Instructions ici...")
 st.title("Villes des invités pour covoiturage")
