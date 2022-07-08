@@ -6,6 +6,7 @@ import pandas as pd
 df = pd.read_excel('Adresses pour faire-parts mariage.xlsx')
 
 # garder seulement ceux qui n'ont pas dis qu'ils ne venaient pas
+df['Présence'] = df['Présence'].fillna(0)
 df = df[df['Présence'] != 0]
 
 # garder seulement là où adresses renseignées
