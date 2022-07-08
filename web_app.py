@@ -81,7 +81,7 @@ st.title("Villes des invités pour covoiturage")
 st.markdown("""Cette carte donne les villes des invités au mariage, pour les covoiturages.
 Elle n'est pas reliée au site covoitribu, c'est juste une carte que j'ai fait à côté.
 
-Utiliser cette carte interactive pour trouver des invités qui habitent proche de chez vous, et demandez leur direct s'ils peuvent vous prendre : chaque point bleu est une famille d'invités, les coordonnées s'affichent quand vous passez la souris dessus.
+Utilisez cette carte interactive pour trouver des invités qui habitent proche de chez vous, et demandez leur direct s'ils peuvent vous prendre : chaque point bleu est une famille d'invités, les coordonnées s'affichent quand vous passez la souris dessus.
 
 POUR CEUX QUI ONT UNE VOITURE : n'oubliez pas d'ajouter votre trajet sur le lien covoitribu, les invités sans voitures doivent s'y prendre très à l'avance pour réserver leurs trains si pas de covoit !
 - Lien de covoiturage pour le 13 (chez vous <--> Clermont) : https://www.covoitribu.fr/poll/24072_HZWw6rImtYGUIq
